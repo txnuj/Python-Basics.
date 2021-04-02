@@ -32,7 +32,7 @@ else:
     print("It's a lovely day")
 print("Enjoy your day")
 
-#Exercise 4.
+#Exercise 4
 house_price = 1000000
 good_credit = True
 if good_credit:
