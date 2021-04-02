@@ -29,7 +29,7 @@ numbers = [5,2,1,7,4]
 numbers.pop()       #Removes the last item in the list.
 print(numbers)
 
-print(50 in numbers)    #Returns boolean values.
+print(50 in numbers)    #Returns boolean values
 
 numbers.sort()      #Sort the numbers in ascending order.
 print(numbers)
