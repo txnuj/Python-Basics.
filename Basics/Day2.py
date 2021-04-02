@@ -32,7 +32,7 @@ print(course[:5])   #Assumes to be 0 and goes upto 4 character.
 name = 'Jennifer'
 print(name[1:-1])   #Starts with e goes all the way to e and excludes r.
 
-#Formatted Strings
+#Formatted Strings.
 first = 'John'
 last = 'Smith'
 message = first + ' [' + last + '] is a coder'
