@@ -24,7 +24,7 @@ while guess_count < guess_limit:
 else:
     print("Better Luck Next Time")
 
-#Car Game.
+#Car Game
 command = ""
 started = False
 stopped = False
