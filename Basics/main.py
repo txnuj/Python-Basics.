@@ -28,7 +28,7 @@ is_new = True
 name = input("What's your name? ")
 print("Hi " + name)
 
-#Exercise 2
+#Exercise 2.
 name = input("What's your name? ")
 colour = input("What's your favourite colour? ")
 print(name + " likes " + colour)
