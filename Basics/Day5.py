@@ -13,7 +13,7 @@ for row in matrix:
 
 #List Methods.
 numbers = [5,2,1,7,4]
-numbers.append(20)  #Adds 20 to the existing list.
+numbers.append(20)  #Adds 20 to the existing list
 print(numbers)
 
 numbers.insert(0,10)#Adds 10 to the first place of the existing list.
