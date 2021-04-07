@@ -31,7 +31,7 @@ from pathlib import Path
 #print(path.mkdir())        #Creates a new Directory.
 
 #path = Path("Hi Hello")
-#print(path.rmdir())        #Removes the created Directory.
+#print(path.rmdir())        #Removes the created Directory
 
 path = Path()
 print(path.glob("*.py"))
